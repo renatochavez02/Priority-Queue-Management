@@ -1,10 +1,3 @@
-/* Name: Renato Chavez Lovon
-   TerpConnect login ID: rchl07
-   University ID Number: 120401329
-   Discussion Section Number: 0302
-
-   I pledge on my honor that I have not given or received any unauthorized 
-   assistance on this examination (or assignment). */
 
 /* The following structures handle a list of priority queues. 
    The linked data structure is again a singly linked list, this time the nodes
