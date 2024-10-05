@@ -1,10 +1,3 @@
-/* Name: Renato Chavez Lovon
-   TerpConnect login ID: rchl07
-   University ID Number: 120401329
-   Discussion Section Number: 0302
-
-   I pledge on my honor that I have not given or received any unauthorized 
-   assistance on this examination (or assignment). */
 
 /* The following functions operate upon a list of priority queues. A singly
    linked list is also used. The priority queues are the nodes for this list,
